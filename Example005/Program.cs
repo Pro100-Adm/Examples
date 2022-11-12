@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 Console.Write("Введите имя пользователя: ");
-string username = Console.ReadLine();
+string? username = Console.ReadLine();
 if(username == "Алексей")
 {
 Console.WriteLine("Ура, это же АЛЕКСЕЙ!");

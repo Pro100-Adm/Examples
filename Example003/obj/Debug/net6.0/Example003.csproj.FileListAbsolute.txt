@@ -13,3 +13,18 @@ C:\Users\Pro100-Adm\Desktop\C#\Examples\Example003\obj\Debug\net6.0\refint\Examp
 C:\Users\Pro100-Adm\Desktop\C#\Examples\Example003\obj\Debug\net6.0\Example003.pdb
 C:\Users\Pro100-Adm\Desktop\C#\Examples\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
 C:\Users\Pro100-Adm\Desktop\C#\Examples\Example003\obj\Debug\net6.0\ref\Example003.dll
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\bin\Debug\net6.0\Example003.exe
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\bin\Debug\net6.0\Example003.deps.json
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\bin\Debug\net6.0\Example003.dll
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\bin\Debug\net6.0\Example003.pdb
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.dll
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\refint\Example003.dll
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.pdb
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+D:\РЭУ\Курсы программирование\C#\Examples\Example003\obj\Debug\net6.0\ref\Example003.dll
