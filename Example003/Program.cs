@@ -12,7 +12,7 @@ try
 }
 catch (Exception)
 {
-    Console.Write("Введите верное число!");
+    Console.WriteLine("Введите верное число!");
     return AskUser();
 }
 }
